@@ -7,6 +7,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * This is a test comment at the beginning of the file
  * @class BuggyBlockingQueue
  * 
  * @brief Defines a buggy version of the BlockingQueue interface that
